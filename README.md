@@ -1,4 +1,4 @@
-# 🧭 Prize-Fetching Autonomous Robot  
+# Prize-Fetching Autonomous Robot  
 **Final Project — ME/CS/EE 129: Spring 2024-25**
 
 ## Overview

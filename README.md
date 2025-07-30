@@ -41,8 +41,10 @@ The map is unknown at the beginning of each round. The robot builds an internal 
 - Motor driver + encoders
 - Raspberry Pi or embedded controller running Python with ROS2
 
-![Prize-Fetching Robot](robot.jpg)
-*Figure 1: Final version of the autonomous prize-fetching robot.*
+<p align="center">
+  <img src="robot.jpg" alt="Prize-Fetching Robot" width="300"/>
+</p>
+<p align="center"><em>Figure 1: Final version of the autonomous prize-fetching robot.</em></p>
 
 ## Software Architecture
 ### Threaded System (Multithreaded Design)

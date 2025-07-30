@@ -41,6 +41,9 @@ The map is unknown at the beginning of each round. The robot builds an internal 
 - Motor driver + encoders
 - Raspberry Pi or embedded controller running Python with ROS2
 
+![Prize-Fetching Robot](images/robot.jpg)
+*Figure 1: Final version of the autonomous prize-fetching robot.*
+
 ## Software Architecture
 ### Threaded System (Multithreaded Design)
 - **Brain Thread:** Core decision-making logic. Handles mode switching, planning, exploration, and goal execution.

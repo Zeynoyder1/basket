@@ -41,7 +41,7 @@ The map is unknown at the beginning of each round. The robot builds an internal 
 - Motor driver + encoders
 - Raspberry Pi or embedded controller running Python with ROS2
 
-![Prize-Fetching Robot](robot.JPG)
+![Prize-Fetching Robot](robot.jpg)
 *Figure 1: Final version of the autonomous prize-fetching robot.*
 
 ## Software Architecture

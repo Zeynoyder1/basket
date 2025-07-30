@@ -96,12 +96,4 @@ At home:
 3. Stops and turns off electromagnet.
 4. Human team member removes prize.
 
-## Setup & Run
-# Clone and install dependencies
-git clone https://github.com/yourusername/prize-fetching-robot.git
-cd prize-fetching-robot
-pip install -r requirements.txt
-
-# Run main control loop
-python3 main.py
 
